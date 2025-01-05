@@ -1,0 +1,23 @@
+
+body{
+    background-image: url(/otopark_otomasyonu-main/img/bg8.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#container{
+    width: 500px;
+    margin-top: 100px;
+    opacity: 0.9;
+}
+
+.logo {
+    max-width: 250px; /* Logonun maksimum genişliği */
+    
+    
+}
+
+.logo-container {
+    text-align: center; /* Logoyu ve başlığı ortalamak için */
+}
